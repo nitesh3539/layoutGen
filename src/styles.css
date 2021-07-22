@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.Layout {
+  height: 600px;
+  width: 600px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: antiquewhite;
+}
+
+.Input {
+  margin: 20px;
+  width: 30%;
+  height: 30px;
+}
